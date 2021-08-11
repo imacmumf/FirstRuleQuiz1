@@ -1,0 +1,72 @@
+body {
+  text-align: center;
+  /* font-family: 'Georama', sans-serif;
+font-family: 'Gowun Batang', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'STIX Two Text', serif; */
+}
+
+.overflow-container {
+  overflow: hidden;
+}
+
+h1 {
+  font-family: 'Georama', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+footer {
+  height: 7rem;
+  font-size: 2rem;
+}
+
+/* .quiz-questions{
+  display: block;
+  text-align: center;
+} */
+
+.title {
+  margin: 4rem;
+}
+
+.quiz-questions {
+/* background-image: linear-gradient(to bottom right, blue, white); */
+}
+
+.question {
+  text-align: left;
+  display: block;
+  line-height: 1.8rem;
+}
+
+.even {
+  background-image: linear-gradient(#b8bfcc,#ebeced);
+  border-radius: 2%;
+  padding: 1rem;
+}
+
+.odd{
+  border-radius: 2%;
+  padding: 1rem;
+}
+
+.submit {
+  margin: 3rem;
+}
+
+.totalScore {
+  margin: 2rem;
+}
+
+.end h2 {
+  margin: 2rem;
+}
+
+
+/* @keyframes mymove {
+  from {background-color: red;}
+  to {background-color: blue;}
+} */
