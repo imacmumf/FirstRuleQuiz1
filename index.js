@@ -30,6 +30,8 @@ const TOTALQUESTIONS = $(".rad").length;
 
   });
 
+  
+
 // Add css class depending on even or odd
     // Get number from class substring
 

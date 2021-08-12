@@ -12,6 +12,8 @@ font-family: 'STIX Two Text', serif; */
 
 h1 {
   font-family: 'Georama', sans-serif;
+  color: #7e7e80;
+
 }
 
 p {
@@ -32,8 +34,14 @@ footer {
   margin: 4rem;
 }
 
-.quiz-questions {
-/* background-image: linear-gradient(to bottom right, blue, white); */
+.intro-paragraph {
+  text-align: left;
+  line-height: 1.6rem;
+}
+
+
+.intro-title{
+  font-family: 'STIX Two Text', serif;
 }
 
 .question {
@@ -41,6 +49,7 @@ footer {
   display: block;
   line-height: 1.8rem;
 }
+
 
 .even {
   background-image: linear-gradient(#b8bfcc,#ebeced);
